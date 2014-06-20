@@ -1,1 +1,4 @@
-<?php echo "go";?>
+<?php 
+if (isset($a))
+	echo "go";
+?>
