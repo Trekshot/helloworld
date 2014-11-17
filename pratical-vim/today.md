@@ -6,7 +6,7 @@
 
 初读没感觉到有多么有用。
 
-## Chapter 17 编译代码，并通过 Quickfix 列表浏览错误信息
-未做笔记。
-## Chapter 18 通过 grep, vimgrep 以及其它工具对整个工程进行查找
-未做笔记。
+		## Chapter 17 编译代码，并通过 Quickfix 列表浏览错误信息
+		未做笔记。
+		## Chapter 18 通过 grep, vimgrep 以及其它工具对整个工程进行查找
+		未做笔记。
